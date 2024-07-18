@@ -1,0 +1,2 @@
+# Reporte-sueldos
+transversal
